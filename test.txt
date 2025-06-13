@@ -1,0 +1,24 @@
+# Ausschreibung Testprojekt
+
+## 1. Allgemeine Informationen
+Dies ist ein Testdokument für die Dokumentenverarbeitung.
+
+### 1.1 Projektbeschreibung
+Das Projekt umfasst die Erstellung eines neuen Bürogebäudes.
+
+## 2. Technische Spezifikationen
+
+### 2.1 Materialien
+| Material | Menge | Einheit | Preis pro Einheit |
+|----------|--------|---------|-------------------|
+| Beton    | 500    | m³      | 120,00 €         |
+| Stahl    | 50     | t       | 1.500,00 €       |
+| Glas     | 200    | m²      | 85,00 €          |
+
+### 2.2 Zeitplan
+Die Bauzeit beträgt 18 Monate ab Auftragsvergabe.
+
+## 3. Formularfelder
+Name des Bieters: _____________________
+Angebotssumme: ______________________€
+Fertigstellungstermin: ________________ 
